@@ -1,1 +1,4 @@
-
+on:
+  schedule:
+    # Se ejecuta cada 6 horas en lugar de diario
+    - cron: "0 */6 * * *"
