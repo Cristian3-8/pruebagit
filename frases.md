@@ -3,3 +3,5 @@
 “Commit temprano, commit seguido: tu mejor seguro contra el desastre.”
 
 “git status es tu mejor amigo: siempre te dice en qué andas.”
+
+Para seguir con la disciplina de subir un commit por dia :)
