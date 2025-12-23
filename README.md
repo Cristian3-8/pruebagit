@@ -8,4 +8,4 @@ Proporcionar un entorno seguro para:
 
 • Practicar comandos de Git
 
-· Experimentar
+· Experimentar con
