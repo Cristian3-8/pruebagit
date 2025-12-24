@@ -10,4 +10,4 @@ Proporcionar un entorno seguro para:
 
 • Experimentar con flujos de trabajo
 
-• Aprender 
+• Aprender sobre ramas 
