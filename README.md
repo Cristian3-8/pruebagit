@@ -8,4 +8,6 @@ Proporcionar un entorno seguro para:
 
 • Practicar comandos de Git
 
-· Experimentar con flujos de trabajo
+• Experimentar con flujos de trabajo
+
+• Aprender 
