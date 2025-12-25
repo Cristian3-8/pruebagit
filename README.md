@@ -11,3 +11,5 @@ Proporcionar un entorno seguro para:
 • Experimentar con flujos de trabajo
 
 • Aprender sobre ramas (branches)
+
+• Probar resoluciones de conflictos
