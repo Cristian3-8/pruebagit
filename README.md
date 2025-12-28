@@ -18,4 +18,4 @@ Proporcionar un entorno seguro para:
 
 🚀 Características
 
-• Estructura básica: Organización simple para 
+• Estructura básica: Organización simple para fácil 
