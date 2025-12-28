@@ -18,4 +18,4 @@ Proporcionar un entorno seguro para:
 
 🚀 Características
 
-• Estructura
+• Estructura básica:
