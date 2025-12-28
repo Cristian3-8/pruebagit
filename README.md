@@ -17,3 +17,5 @@ Proporcionar un entorno seguro para:
 • Familiarizarse con GitHub
 
 🚀 Características
+
+• Estructura
