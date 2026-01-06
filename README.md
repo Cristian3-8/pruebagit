@@ -23,3 +23,5 @@ Proporcionar un entorno seguro para:
 • Archivos de ejemplo: Incluye algunos archivos para practicar modificaciones
 
 • Seguro para experimentar: Puedes cometer errores sin consecuencias
+
+Seguro para experimentar: Puedes cometer errores 
