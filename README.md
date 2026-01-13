@@ -24,4 +24,4 @@ Proporcionar un entorno seguro para:
 
 • Seguro para experimentar: Puedes cometer errores sin consecuencias
 
-📂 
+📂 Estructura 
