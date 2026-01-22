@@ -26,4 +26,4 @@ Proporcionar un entorno seguro para:
 
 📂 Estructura del Proyecto
 
-• Actualmente
+• Actualmente estudiando 
