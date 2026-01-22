@@ -26,4 +26,4 @@ Proporcionar un entorno seguro para:
 
 📂 Estructura del Proyecto
 
-• Actualmente estudiando ingles, por ende, no he podido 
+• Actualmente estudiando ingles, por ende, no he podido subir actualizaciones
