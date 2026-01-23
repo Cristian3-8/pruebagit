@@ -28,4 +28,4 @@ Proporcionar un entorno seguro para:
 
 • Actualmente estudiando ingles, por ende, no he podido subir actualizaciones
 
-• Llevo prácticamente 2 semanas prácticando constantemente 
+• Llevo prácticamente 2 semanas prácticando constantemente inglés 
