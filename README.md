@@ -30,4 +30,4 @@ Proporcionar un entorno seguro para:
 
 • Llevo prácticamente 2 semanas prácticando constantemente inglés 
 
-• Viernes con mucha carga 
+• Viernes con mucha carga horaria en inglés 
