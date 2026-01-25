@@ -33,3 +33,5 @@ Proporcionar un entorno seguro para:
 • Viernes con mucha carga horaria en inglés 
 
 • Aportando el granito de hoy 
+
+• Asi sea domingo cumpliendo la actividad 
