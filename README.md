@@ -36,4 +36,4 @@ Proporcionar un entorno seguro para:
 
 • Asi sea domingo cumpliendo la actividad 
 
-• Dominando 
+• Dominando un ingles ya 
