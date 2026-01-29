@@ -37,3 +37,5 @@ Proporcionar un entorno seguro para:
 • Asi sea domingo cumpliendo la actividad 
 
 • Dominando un ingles ya intermedio
+
+• Proximo proyecto confirmado para una consecionaria
