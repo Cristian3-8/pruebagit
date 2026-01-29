@@ -39,3 +39,5 @@ Proporcionar un entorno seguro para:
 • Dominando un ingles ya intermedio
 
 • Proximo proyecto confirmado para una consecionaria
+
+• Hoy fue día de ordenar los requerimientos del cliente 
