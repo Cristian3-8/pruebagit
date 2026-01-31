@@ -41,3 +41,5 @@ Proporcionar un entorno seguro para:
 • Proximo proyecto confirmado para una consecionaria
 
 • Hoy fue día de ordenar los requerimientos del cliente 
+
+• Llega el fin de semana y se me hace dificil mantener la constancia de aporte de actividad. Ya que no codifico los fines de semana. 
