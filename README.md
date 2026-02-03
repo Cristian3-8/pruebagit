@@ -45,3 +45,5 @@ Proporcionar un entorno seguro para:
 • Llega el fin de semana y se me hace dificil mantener la constancia de aporte de actividad. Ya que no codifico los fines de semana. 
 
 • Realizando un Tracker Habit
+
+• Manteniendo la actividad de perfil de linkedin
