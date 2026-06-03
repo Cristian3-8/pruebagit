@@ -26,29 +26,7 @@ Proporcionar un entorno seguro para:
 
 📂 Estructura del Proyecto
 
-• Actualmente estudiando ingles, por ende, no he podido subir actualizaciones
-
-• Llevo prácticamente 2 semanas prácticando constantemente inglés 
-
-• Viernes con mucha carga horaria en inglés 
-
-• Aportando el granito de hoy 
-
-• Asi sea domingo cumpliendo la actividad 
-
-• Dominando un ingles ya intermedio
-
-• Proximo proyecto confirmado para una consecionaria
-
-• Hoy fue día de ordenar los requerimientos del cliente 
-
-• Llega el fin de semana y se me hace dificil mantener la constancia de aporte de actividad. Ya que no codifico los fines de semana. 
-
-• Realizando un Tracker Habit
-
-• Manteniendo la actividad de perfil de linkedin
-
-• Nuevo RoadMap de TodoCode
+• 
 
 ••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••••••••••••••••••••••••••••
